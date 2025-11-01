@@ -1,10 +1,6 @@
 # NYC January 2024 Yellow Taxi Trips Analysis
 
-> **Note:** This analysis is **specifically for Yellow Taxi** trips.
-
-
 ## The goal of this project is to analyze January 2024 NYC yellow taxi trip data to identify trends in revenue, trip volumes, and passenger behavior patterns. Using Power BI for interactive visualization and Python for data transformation, this analysis provides actionable insights into peak travel times, high-demand geographic zones, and revenue optimization opportunities to support strategic decision-making in urban taxi operations.
-
 
 ## Project Background
 

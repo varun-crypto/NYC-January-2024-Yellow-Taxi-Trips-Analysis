@@ -1,7 +1,5 @@
 # NYC January 2024 Yellow Taxi Trips Analysis
 
-<a href="[URL_REDIRECT]" target="blank"><img align="center" src="https://images.unsplash.com/photo-1484490548882-460414740a0f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=7200" height="100" /></a>
-
 ## The goal of this project is to analyze January 2024 NYC yellow taxi trip data to identify trends in revenue, trip volumes, and passenger behavior patterns. 
 
 ## This analysis provides actionable insights into peak travel times, high-demand geographic zones, and revenue optimization opportunities to support strategic decision-making in urban taxi operations.

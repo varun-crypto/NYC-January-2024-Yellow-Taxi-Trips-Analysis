@@ -26,7 +26,23 @@ The NYC taxi trip database consists of one fact table and seven dimension tables
 
 ### Fact Table
 
-**Yellow Taxi Trips Data:** Contains trip-level transaction data including trip_id, datetime_id, pickup_location_id, dropoff_location_id, passenger_count_id, trip_distance_id, rate_code_id, payment_type_id, fare_amount, extra charges, taxes, tip_amount, tolls, surcharges, and total_amount
+**Yellow Taxi Trips Data:** 
+
+Contains trip-level transaction data:
+
+- `trip_id`
+- `datetime_id`
+- `pickup_location_id`
+- `dropoff_location_id`
+- `passenger_count_id`
+- `trip_distance_id`
+- `rate_code_id`
+- `payment_type_id`
+- `fare_amount`
+- extras, taxes, surcharges
+- `tip_amount`
+- `tolls_amount`
+- `total_amount`
 
 ### Dimension Tables
 

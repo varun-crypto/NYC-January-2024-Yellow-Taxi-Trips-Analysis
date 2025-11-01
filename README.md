@@ -39,7 +39,7 @@ Contains trip-level transaction data:
 - `rate_code_id`
 - `payment_type_id`
 - `fare_amount`
-- extras, taxes, surcharges
+- `extras`,`taxes`, `surcharges`
 - `tip_amount`
 - `tolls_amount`
 - `total_amount`
